@@ -44,7 +44,7 @@ export default function Weather() {
           <li>Humidity:{humidity}%</li>
           <li> Wind:{wind} km/h</li>
           <li>
-            <img src={icon} />{" "}
+            <img src={icon} alt="the icon of the depicting the city's temperature"/>{" "}
           </li>
         </ul>
       )}

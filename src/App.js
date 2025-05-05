@@ -1,7 +1,7 @@
 import React from "react";
 import SearchEngine from "./SearchEngine";
 
-import "./App.css"
+import "./App.css";
 
 export default function App() {
   return (
